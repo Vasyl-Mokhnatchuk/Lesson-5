@@ -15,3 +15,6 @@ for (let i = 0, tmp; i < arr.length - 1; i++) {
 }
 
 console.table(arr);
+
+
+//npm install --save-dev @faker-js/faker
