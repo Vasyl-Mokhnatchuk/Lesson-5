@@ -34,3 +34,5 @@ if (result !== -1) {
 } else {
   console.log(`Елемент ${target} не знайдено в масиві.`);
 }
+
+//npm i prompt-sync
